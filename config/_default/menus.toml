@@ -17,13 +17,13 @@
   name = "R Team"
   url = "team"
   weight = 30
-
+  
 [[main]]
-  name = "Social Media"
-  url = "social_media"
-  weight = 40
+  name = "Github"
+  url = "https://github.com/unswcodeRs"
+  weight = 40  
   
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 50
+  weight = 60
