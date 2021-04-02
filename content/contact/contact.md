@@ -1,12 +1,9 @@
 ---
 content:
-  autolink: true
   form:
+    provider: formspree
     formspree:
-      id: null
-    netlify:
-      captcha: false
-    provider: netlify
+      id: xpzkzzyr
 design:
   columns: "1"
 headless: true
