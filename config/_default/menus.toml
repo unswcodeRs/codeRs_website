@@ -5,30 +5,25 @@
 
 #[[main]]
 #  name = "Home"
-#  url = "/"
+#  url = "home"
 #  weight = 10
 
 [[main]]
-  name = "News"
+  name = "Events"
   url = "post"
   weight = 20
 
 [[main]]
-  name = "People"
-  url = "people"
+  name = "R Team"
+  url = "team"
   weight = 30
 
 [[main]]
-  name = "Events"
-  url = "event"
+  name = "Social Media"
+  url = "social_media"
   weight = 40
-
-[[main]]
-  name = "Publications"
-  url = "publication"
-  weight = 50
-
+  
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 60
+  weight = 50

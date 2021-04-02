@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Rose_Green"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#39A0ED"
+
+# Menu
+menu_primary = "#3e5e5a" #"rgb(247, 247, 247)"
+menu_text = "#edf0f0"
+menu_text_active = "rgb(25, 25, 25)"
+menu_title = "#edf0f0"
+
+# Home sections
+home_section_odd = "#FFF"
+home_section_even = "rgb(234, 242, 250)" # bottom half of homepage
