@@ -20,9 +20,6 @@ organizations:
 - name: University of New South Wales
   url: "http://uat.bees.unsw.edu.au/our-people/jose-ferrer"
 role: Research Fellow
-- name: International Union for the Conservation of Nature
-  url: "https://iucnrle.org/about-rle/how-we-work/rle-team/"
-role: Member of Thematic Group on Red List of Ecosystems
 social:
 - icon: envelope
   icon_pack: fas
