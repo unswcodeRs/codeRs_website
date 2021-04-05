@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Events"
-  url = "post"
+  url = "events"
   weight = 20
 
 [[main]]
@@ -19,9 +19,14 @@
   weight = 30
   
 [[main]]
+  name = "Resources"
+  url = "resources"
+  weight = 40  
+  
+[[main]]
   name = "Github"
   url = "https://github.com/unswcodeRs"
-  weight = 40  
+  weight = 50  
   
 [[main]]
   name = "Contact"
