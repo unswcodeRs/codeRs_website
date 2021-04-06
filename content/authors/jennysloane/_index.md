@@ -33,7 +33,7 @@ social:
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/jenny-sloane/  
-superuser: true
+superuser: false
 title: Jenny Sloane
 user_groups:
 - Committee

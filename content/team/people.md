@@ -1,6 +1,7 @@
 ---
 content:
   user_groups:
+  - General
   - Committee
   - Principal Investigators
   - Researchers
