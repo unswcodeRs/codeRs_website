@@ -23,7 +23,7 @@ role: PhD Student in Cognitive Psychology
 social:
 - icon: envelope
   icon_pack: fas
-  link: "jfsloane92@gmail.com"
+  email: "jfsloane92@gmail.com" 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jfsloane
