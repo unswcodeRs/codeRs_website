@@ -36,7 +36,7 @@ social:
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/jos%C3%A9-ferrer-547a4770/
-superuser: true
+superuser: false
 title: José R. Ferrer-Paris
 user_groups:
 - Committee
