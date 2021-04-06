@@ -14,7 +14,7 @@ social:
   link: '#contact'
 - icon: github
   icon_pack: fab
-  link: https://github.com/jennysloane  
+  link: https://github.com/unswcodeRs  
 superuser: true
 title: UNSW codeRs
 user_groups:
