@@ -21,7 +21,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/GordyPopovic
 - icon: home
-  icon_pack:fas
+  icon_pack: fas
   link: https://statscentral.unsw.edu.au
 
   
