@@ -8,7 +8,7 @@ education:
   - course: BA in Psychology
     institution: University of Maryland
     year: 2014
-email: "j.sloane@unsw.edu.au"
+email: mailto:j.sloane@unsw.edu.au
 highlight_name: false
 interests:
 - Data Science
