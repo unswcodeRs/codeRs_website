@@ -23,7 +23,7 @@ role: PhD Student in Cognitive Psychology
 social:
 - icon: envelope
   icon_pack: fas
-  email: "jfsloane92@gmail.com" 
+  email: mailto:j.sloane@unsw.edu.au
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jfsloane
