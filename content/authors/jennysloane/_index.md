@@ -33,6 +33,9 @@ social:
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/jenny-sloane/  
+- icon: home
+  icon_pack: fas
+  link: https://jennysloane.netlify.app/
 superuser: false
 title: Jenny Sloane
 user_groups:
