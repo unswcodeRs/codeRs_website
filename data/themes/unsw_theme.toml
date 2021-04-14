@@ -1,0 +1,32 @@
+# custom theme
+name = "Runsw"
+
+#c8c9c7 - light grey 
+#6c6864 - dark grey
+#fedb00 - yellow
+#003865 - navy
+#2d2926 - black
+#F4F9FF - white
+
+#4056F4 - blue not unsw color 
+#FF1654 - bright red also not unsw
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#4056F4" #"#4189c4"
+
+# Menu
+menu_primary = "#fedb00" # background of the top bar 
+menu_text = "#2d2926" # text on the top bar
+menu_text_active = "#F4F9FF"
+menu_title = "#2d2926"
+
+# Home sections - page background color
+home_section_odd = "#FFF"
+home_section_even = "#c8c9c7" #"rgb(211, 235, 232)"
+
+[dark]
+  link = "#4189c4"
+  link_hover = "rgb(234, 242, 250)"
