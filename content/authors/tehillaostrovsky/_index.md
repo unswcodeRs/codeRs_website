@@ -8,7 +8,7 @@ education:
   - course: Bachelor of Science in Psychology
     institution: University of Basel
     year: 2015   
-email: mailto: "theilla.mo@gmail.com"
+email: mailto:t.mechera-ostrovsky@unsw.edu.au
 highlight_name: false
 interests:
 - Data Science
