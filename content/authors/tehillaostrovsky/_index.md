@@ -7,15 +7,13 @@ education:
     year: 2018
   - course: Bachelor of Science in Psychology
     institution: University of Basel
-    year: 2015
-    
+    year: 2015   
 email: mailto: "theilla.mo@gmail.com"
 highlight_name: false
 interests:
 - Data Science
 - Statistics
 - Experimental Psychology 
-
 organizations:
 - name: University of New South Wales
   url: https://www.unsw.edu.au
@@ -25,7 +23,7 @@ social:
   icon_pack: fas
   link: /#contact
 - display:
-    header: true
+  header: true
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
