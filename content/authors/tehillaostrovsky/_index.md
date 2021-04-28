@@ -21,16 +21,7 @@ role: PhD Student in Cognitive Psychology
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
-- display:
-  header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: mailto:t.mechera-ostrovsky@unsw.edu.au
 - icon: github
   icon_pack: fab
   link: https://github.com/tehillamo
