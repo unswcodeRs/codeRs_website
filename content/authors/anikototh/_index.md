@@ -35,7 +35,10 @@ social:
   link: https://github.com/anikobtoth 
 - icon: linkedin-in
   icon_pack: fab
-  link: https://www.linkedin.com/in/anikobtoth/  
+  link: https://www.linkedin.com/in/anikobtoth/ 
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Aniko-Toth-2
 - icon: home
   icon_pack: fas
   link: https://anikobtoth.wixsite.com/anikobtoth

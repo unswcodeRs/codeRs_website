@@ -1,0 +1,46 @@
+---
+title: "calendar"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+library(calendR)
+library(ggeasy)
+# Vector of NA of the same length of the number of days of the year
+events <- rep(NA, 30)
+
+# Set the corresponding events
+events[7] <- " Workshop"
+events[21] <- "Drop-in Session"
+
+
+# Creating the calendar with a legend
+june_cal <- calendR(year = 2021,
+        month = 6,
+        special.days = events,
+        special.col = c("lightblue", "lightsalmon"),
+        weeknames = c("M", "T", "W", "Th", "F", "S", "S"),
+        legend.pos = "right",
+        day.size = 4, 
+        subtitle = "Workshop: Purrr \nPresenter: Dr. Anikó Tóth"
+        )
+
+events <- rep(NA, 31)
+
+events[5] <- " Workshop"
+events[19] <- "Drop-in Session"
+
+july_cal <- calendR(year = 2021,
+        month = 7,
+        special.days = events,
+        special.col = c("lightblue", "lightsalmon"),
+        weeknames = c("M", "T", "W", "Th", "F", "S", "S"),
+        legend.pos = "right",
+        day.size = 4, 
+        subtitle = "Workshop:  \nPresenter: "
+        )
+
+```
+

@@ -20,7 +20,7 @@ primary = "#4056F4" #"#4189c4"
 # Menu
 menu_primary = "#fedb00" # background of the top bar 
 menu_text = "#2d2926" # text on the top bar
-menu_text_active = "#F4F9FF"
+menu_text_active = "#A9A9A9" #"#F4F9FF"
 menu_title = "#2d2926"
 
 # Home sections - page background color
