@@ -12,6 +12,6 @@ view: 2
 </div> ---> 
 
 
-<img src="June2021.png" width=450 style = "margin-left: 0px; margin-right: 10px; float:left;" >
+<!--- <img src="June2021.png" width=450 style = "margin-left: 0px; margin-right: 10px; float:left;" > ---> 
 
-<img src="July2021.png" width=450 style = "margin-left: 0px; margin-right: 10px;" >
+<!--- <img src="July2021.png" width=450 style = "margin-left: 0px; margin-right: 10px;" > ---> 
