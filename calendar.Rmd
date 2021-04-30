@@ -23,7 +23,11 @@ june_cal <- calendR(year = 2021,
         special.col = c("lightblue", "lightsalmon"),
         weeknames = c("M", "T", "W", "Th", "F", "S", "S"),
         legend.pos = "right",
-        day.size = 4, 
+        day.size = 5, 
+        title.size = 30,
+        subtitle.size = 20,
+        font.style = "bold",
+        months.size = 8,
         subtitle = "Workshop: Purrr \nPresenter: Dr. Anikó Tóth"
         )
 
@@ -37,8 +41,12 @@ july_cal <- calendR(year = 2021,
         special.days = events,
         special.col = c("lightblue", "lightsalmon"),
         weeknames = c("M", "T", "W", "Th", "F", "S", "S"),
-        legend.pos = "right",
-        day.size = 4, 
+        day.size = 5, 
+        legend.pos = "bottom",
+        title.size = 30,
+        subtitle.size = 20,
+        font.style = "bold",
+        months.size = 8,
         subtitle = "Workshop:  \nPresenter: "
         )
 
