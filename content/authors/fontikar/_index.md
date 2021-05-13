@@ -37,7 +37,7 @@ social:
   icon_pack: fas
   link: https://fontikar.wordpress.com/
 superuser: false
-title: Fonti Kar
+title: Dr. Fonti Kar
 user_groups:
 - Committee
 ---

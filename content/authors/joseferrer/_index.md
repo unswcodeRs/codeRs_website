@@ -37,7 +37,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/jos%C3%A9-ferrer-547a4770/
 superuser: false
-title: José R. Ferrer-Paris
+title: Dr. José R. Ferrer-Paris
 user_groups:
 - Committee
 ---
