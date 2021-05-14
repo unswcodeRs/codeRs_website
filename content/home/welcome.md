@@ -17,23 +17,15 @@ advanced:
   css_class: 
 ---
 
-# Who are we?
 
-UNSW coders is a student and staff run community dedicated for 'R' users for anyone who wants to further develop their coding skills. It is our goal to create a safe and open space for members to share and gain new experiences relating to R, coding and statistics.
+<!-- <img src="/home/welcome_files/image_logo.png" width=150 style = "margin-left: 0px; margin-right: 0px; float:right;" > --->
 
-# What do we do?
 
-UNSW coders host events that catered for those who are just learning their way around R as well as those who are more proficient R users.
+UNSW codeRs is a student and staff run community dedicated for 'R' users. We set up events that cater to learning R. We meet fortnightly, alternating between workshops, drop-in help sessions, and other social events.
 
-We meet on a fortnightly basis, alternating between a workshop and a drop-in help session.
+We meet every 1st and 3rd Mondays of the month during the academic terms. You can find us in Mathews room 105 between 2.30-3.30. Everyone is welcome to join.
 
-Our members as well as external speakers are invited to run short workshops that are centered around R and coding skills with the hopes to advance our members' knowledge base in addition to fostering networking opportunities. 
+You can go [here](https://unsw-coders.netlify.app/workshops/) to find out more information about upcoming workshops and check out the flyer below for more information about the drop-in help sessions.  
 
-In our drop-in help sessions, members can bring their own code and work alongside our helpers to troubleshoot their problem(s).
 
-Our community also hosts other social events that revolve around R and coding based activites such as ['Tidy Tuesdays'](https://github.com/rfordatascience/tidytuesday), 'Repo Hacks', 'Share your code', 'Stats chats' and social events such as bake offs, morning/afternoon teas and BBQs! 
-
-# Where do we see ourselves going?
-
-Life at university is dynamic. People complete their UNSW candidatures and move on to their next chapters. We hope UNSW coders will continue to grow and recruit new members and become a self-sustainable communtity driven by the support, passion and curiousity of our members.
 

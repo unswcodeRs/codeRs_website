@@ -1,13 +1,13 @@
 
 # Who are we?
 
-UNSW coders is a student and staff run community dedicated for 'R' users for anyone who wants to further develop their coding skills. It is our goal to create a safe and open space for members to share and gain new experiences relating to R, coding and statistics.
+UNSW coders is a student and staff run community dedicated for 'R' users for anyone who wants to further develop their coding skills. It is our goal to create a safe and open space for members to share and gain new experiences relating to R, coding and statistics. 
 
 # What do we do?
 
 UNSW coders host events that catered for those who are just learning their way around R as well as those who are more proficient R users.
 
-We meet on a fortnightly basis, alternating between a workshop and a drop-in help session.
+We meet on a fortnightly basis, alternating between a [workshop](https://unsw-coders.netlify.app/workshops/) and a drop-in help session.
 
 Our members as well as external speakers are invited to run short workshops that are centered around R and coding skills with the hopes to advance our members' knowledge base in addition to fostering networking opportunities. 
 
