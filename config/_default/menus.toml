@@ -7,14 +7,18 @@
 #  name = "Home"
 #  url = "home"
 #  weight = 10
+[[main]]
+  name = "About Us"
+  url = "about_us"
+  weight = 10
 
 [[main]]
-  name = "Events"
-  url = "events"
+  name = "Workshops"
+  url = "workshops"
   weight = 20
 
 [[main]]
-  name = "Committee"
+  name = "People"
   url = "team"
   weight = 30
   

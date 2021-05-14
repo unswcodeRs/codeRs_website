@@ -33,7 +33,7 @@ social:
 superuser: false
 title: Gary Truong
 user_groups:
-- Committee
+- Contributer
 ---
 
 Gary is a PhD student studying Marine Biology at UNSW. His research interest include understanding the impacts of climate change in marine ecological systems. His PhD research involves examining how blue whale migration patterns are influenced by environmental variables in the Southern Hemisphere. He has taught several undergraduate courses in biology as well as a second year statistics course using R for a number of years.

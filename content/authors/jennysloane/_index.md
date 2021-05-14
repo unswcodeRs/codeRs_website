@@ -39,7 +39,7 @@ social:
 superuser: false
 title: Jenny Sloane
 user_groups:
-- Committee
+- Committee Member
 ---
 
 Jenny is a PhD student studying cognitive psychology at UNSW. She received her BA in psychology from the University of Maryland and her Masters of Science in experimental psychology from Syracuse University. Jenny's research interests include studying the effects of interruptions and time-pressure on decision-making. She has several years of experience as a teaching assistant for a range of psychology courses. Jenny is also a member of the UNSW Women in Maths and Science Champions Program, where she participates in outreach activities to encourage and inspire women to pursue careers in math and science.

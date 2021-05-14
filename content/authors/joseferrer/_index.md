@@ -39,7 +39,7 @@ social:
 superuser: false
 title: Dr. José R. Ferrer-Paris
 user_groups:
-- Committee
+- Committee Member
 ---
 
 José is currently Research Fellow at the Center for Ecosystem Science at UNSW, and a member of the International Union for the Conservation of Nature (IUCN) Thematic Group on Red List of Ecosystems. He completed his studies in Germany and Venezuela and has research experience in biodiversity monitoring and eco-informatics in Venezuela and South Africa. His research focuses on biodiversity monitoring, species distribution modelling, and risk assessments for species and ecosystems. He has designed, implemented and managed databases of biological data and integrated this data into workflows for reporting and analysis. José’s current work involves the organisation of existing ecological data, monitoring networks, and expert’s knowledge on ecosystem to find spatial and temporal predictors for estimating the status and trends in ecosystem’s distribution and functions. 

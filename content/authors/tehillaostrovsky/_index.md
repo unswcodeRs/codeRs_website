@@ -31,7 +31,7 @@ social:
 superuser: false
 title: Tehilla Ostrovsky
 user_groups:
-- Committee
+- Committee Member
 ---
 I am a Ph.D. student studying cognitive science at UNSW, Sydney. I received my Bachelor and my Masters degrees from the University of Basel, Switzerland. My research focuses on risky decision-making and information-seeking behavior.  
 
