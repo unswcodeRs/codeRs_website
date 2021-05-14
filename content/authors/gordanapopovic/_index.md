@@ -28,6 +28,6 @@ social:
 superuser: false
 title: Gordana Popovic
 user_groups:
-- Contributer
+- Contributers
 ---
 Gordana is a statistician at UNSW Sydney. She works as a statistical consultant in Stats Central, the internal consulting unit at UNSW, as well as a research fellow at the school of Mathematics and Statistics. Her research interest are in developing statistical methods for multivariate discrete data, with applications in ecology.

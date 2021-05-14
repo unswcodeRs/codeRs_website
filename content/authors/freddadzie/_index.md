@@ -31,7 +31,7 @@ social:
 superuser: false
 title: Frederick Dadzie
 user_groups:
-- Committee Member
+- Committee Members
 ---
 
 Frederick is a PhD candidate at UNSW studying land restoration in arid ecosystems. He had his Bachelor of Science degree in Environmental Science from Kwame Nkrumah University of Science and Technology in Ghana and his Masters' degree at university of Goettingen, Germany. Frederick's research focuses on the role of native microbes on improving native plant establishment in disturbed arid ecosystems. Frederick is passionate about plants and forests in general. He has conducted forest assessments in countries like Germany, Chile, Myanmar and his home country Ghana. He is a volunteer at WaldAfrik mostly campaigning for forest conservation awareness in Africa. He also enjoys children's stories and contributed to the FAO childrens' book on soil biodiversity that was recently published and can be found [here](http://www.fao.org/documents/card/en/c/cb4185en).

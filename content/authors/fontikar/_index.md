@@ -39,7 +39,7 @@ social:
 superuser: false
 title: Dr. Fonti Kar
 user_groups:
-- Committee Member
+- Committee Members
 ---
 
 Since my undergraduate at University of Auckland, I've always enjoyed statistics and coding in R. I continued using these skills in my Masters at Macquarie University while investigating the intricacies of lizard fights and how it may affect their learning. I strongly developed these computational skills during my PhD at UNSW, exploring the impacts of temperature on lizard development. 
