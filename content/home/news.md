@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 15
 
-title: Latest News
+title: Upcoming Events
 subtitle:
 
 content:
@@ -17,7 +17,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: post
+  page_type: workshops
 design:
   view: 2
   columns: "1"
