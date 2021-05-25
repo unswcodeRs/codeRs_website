@@ -3,12 +3,13 @@
 widget: pages
 headless: true
 weight: 15
+active: false
 
 title: Upcoming Events
 subtitle:
 
 content:
-  count: 3
+  count: 0
   filters:
     author: ""
     category: ""
