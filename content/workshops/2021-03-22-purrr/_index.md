@@ -3,9 +3,10 @@ design:
   columns: "1"
 headless: true
 subtitle: null
-title: Test test
+title: 
 weight: 60
 widget: blank
+
 title: "Loops and beyond: Elegant iteration with the purrr package"
 date: 2021-05-16
 ---

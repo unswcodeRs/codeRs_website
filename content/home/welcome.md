@@ -17,8 +17,7 @@ advanced:
   css_class: 
 ---
 
-
-<!-- <img src="/home/welcome_files/image_logo.png" width=150 style = "margin-left: 0px; margin-right: 0px; float:right;" > --->
+<img src="/home/welcome_files/logo.png" width=350 style = "margin-left: 0px; margin-right: 0px; float:right;" >
 
 
 <div style = "margin-left: 80px; margin-right: 80px;">
@@ -26,7 +25,10 @@ advanced:
 <br>
 UNSW codeRs is a student and staff run community dedicated for 'R' users. We set up events that cater to learning R. We meet fortnightly, alternating between workshops, drop-in help sessions, and other social events. <br><br>
 
-We meet every **1st and 3rd Monday of the month** during the academic terms. You can find us in **Mathews room 105 between 2.30-3.30**. Everyone is welcome to join!<br><br>
+<div style = "text-align: center">
+We meet every <strong> 1st and 3rd Monday of the month </strong> during the academic terms. <br> 
+You can find us in <strong> Mathews room 105 between 2.30-3.30</strong>. <br> Everyone is welcome to join!<br><br>
+</div>
 
 ## **Workshops**
 
