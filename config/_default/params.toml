@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "My research group description."
+description = "UNSW codeRs is a student and staff run community dedicated for 'R' users at the University of New South Wales."
 
 ############################
 ## Site Features
