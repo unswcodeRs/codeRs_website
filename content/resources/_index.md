@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Upcoming Events
+title: Resources
 view: 2
 ---

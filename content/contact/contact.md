@@ -13,4 +13,6 @@ weight: 10
 widget: contact
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Please fill out the google form [here](https://forms.gle/hVWDjh8rSCpumjtW6) if you wish to sign up and receive updates, resources, and notifications about recent and upcoming events. 
+
+Do you have any R related questions? Are you interested in getting involved with UNSW codeRs? Do you have ideas for future workshops? We'd love to hear from you! 

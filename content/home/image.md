@@ -4,13 +4,13 @@
 widget: blank
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title:
 subtitle:
@@ -18,11 +18,11 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: 
     image_darken: 0
     image_parallax: false
     image_position: center
-    image_size: cover
+    image_size: contain
     text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]

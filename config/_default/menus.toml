@@ -7,23 +7,33 @@
 #  name = "Home"
 #  url = "home"
 #  weight = 10
+[[main]]
+  name = "About Us"
+  url = "about_us"
+  weight = 10
 
 [[main]]
-  name = "Events"
-  url = "post"
+  name = "Workshops"
+  url = "workshops"
   weight = 20
 
 [[main]]
-  name = "R Team"
+  name = "People"
   url = "team"
   weight = 30
   
 [[main]]
+  name = "Resources"
+  url = "resources"
+  weight = 40  
+  
+[[main]]
   name = "Github"
   url = "https://github.com/unswcodeRs"
-  weight = 40  
+  weight = 50  
   
 [[main]]
   name = "Contact"
   url = "contact"
   weight = 60
+  

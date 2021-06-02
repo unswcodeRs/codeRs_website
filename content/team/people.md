@@ -1,7 +1,9 @@
 ---
 content:
   user_groups:
-  - Committee
+  - General
+  - Committee Members
+  - Contributers
   - Principal Investigators
   - Researchers
   - Grad Students

@@ -8,7 +8,7 @@ education:
   - course: BA in Psychology
     institution: University of Maryland
     year: 2014
-email: "j.sloane@unsw.edu.au"
+email: mailto:j.sloane@unsw.edu.au
 highlight_name: false
 interests:
 - Data Science
@@ -23,7 +23,7 @@ role: PhD Student in Cognitive Psychology
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  email: mailto:j.sloane@unsw.edu.au
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jfsloane
@@ -33,10 +33,13 @@ social:
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/jenny-sloane/  
-superuser: true
+- icon: home
+  icon_pack: fas
+  link: https://jennysloane.netlify.app/
+superuser: false
 title: Jenny Sloane
 user_groups:
-- Committee
+- Committee Members
 ---
 
 Jenny is a PhD student studying cognitive psychology at UNSW. She received her BA in psychology from the University of Maryland and her Masters of Science in experimental psychology from Syracuse University. Jenny's research interests include studying the effects of interruptions and time-pressure on decision-making. She has several years of experience as a teaching assistant for a range of psychology courses. Jenny is also a member of the UNSW Women in Maths and Science Champions Program, where she participates in outreach activities to encourage and inspire women to pursue careers in math and science.
