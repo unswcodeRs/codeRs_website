@@ -33,7 +33,7 @@
   weight = 50  
   
 [[main]]
-  name = "Contact"
+  name = "Sign Up"
   url = "contact"
   weight = 60
   
