@@ -6,7 +6,6 @@ title: Resources
 view: 2
 ---
 
-# Additional UNSW Resources 
 
 - [ResTech](https://research.unsw.edu.au/research-technology-services)
 - [Stats Central](https://www.analytical.unsw.edu.au/facilities/stats-central)
