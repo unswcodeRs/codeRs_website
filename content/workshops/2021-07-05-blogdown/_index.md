@@ -11,7 +11,8 @@ title: "Blogdown and making websites in R"
 date: 2021-07-05
 ---
 <span style="color: red;">**Update:**</span>
-Due to the current COVID situation, this workshop will most likely be completely online. If you wish to attend, please sign up (see the Sign Up tab in the navigation bar) and we will send you a Zoom link prior to the event. 
+Due to the current COVID situation, this workshop will most likely be completely online. If you wish to attend, please sign up (see the Sign Up tab in the navigation bar) and we will send you a Zoom link prior to the event. See you!
+
 
 
 <img src="blogdown.png" width=1000 style = "margin-left: 0px; margin-right: 0px; float:right;" >
