@@ -25,5 +25,5 @@ date: 2021-08-03
 We will start our workshop using decision trees to describe rules for classifying data, and discuss how multiple, randomized trees can get us to more accurate classifications. We will guide you through the code needed to fit classification trees and Random Forests using popular R packages. Before you know it, you will be talking about 'bagging', 'variable randomization' and 'ensembles prediction' like a pro. Come with the latest version of R loaded on your laptop, or come a few minutes early so we can help you load it! 
 
 
-**About the instructor:** 
+**Bio:** 
 José Rafael Ferrer-Paris (a.k.a. JR) is currently a Research Fellow at the Center for Ecosystem Science at UNSW, and a member of the International Union for the Conservation of Nature (IUCN) Thematic Group on the Red List of Ecosystems. JR has studied and worked in Venezuela, Germany and South Africa with biodiversity data, spatial and temporal ecological data and geographical information systems. He is currently working with Prof. David Keith on global risk assessment of ecosystems. He has been using R since version 1.0.0, and also likes working with other command, scripting and programming languages like PHP, Bash, Python, JS, Java or Perl and all kinds of databases (SQL, XML, GDB). 
