@@ -11,7 +11,7 @@ title: "Introduction to Classification Trees and Random Forests in R"
 date: 2021-08-03
 ---
 
-<span style="color: red"> Due to the current COVID situation, this workshop will be completely online. If you wish to attend, please sign up (see the Sign Up tab in the navigation bar) and we will send you a Zoom link prior to the event. Looking forward ot see you all there!</span>
+<span style="color: yellow"> Due to the current COVID situation, this workshop will be completely online. If you wish to attend, please sign up (see the Sign Up tab in the navigation bar) and we will send you a Zoom link prior to the event. Looking forward ot see you all there!</span>
 
 
 <img src="random_forest.png" width=1000 style = "margin-left: 0px; margin-right: 0px; float:right;" >
