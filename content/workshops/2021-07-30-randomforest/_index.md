@@ -31,3 +31,4 @@ José Rafael Ferrer-Paris (a.k.a. JR) is currently a Research Fellow at the Cent
 
 **Links:**<br> 
 Here is a [Link](https://bit.ly/2VrCFh4) to the workshop's recording. 
+
