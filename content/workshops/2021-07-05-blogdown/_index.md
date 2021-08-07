@@ -25,3 +25,7 @@ Please make sure you have R, RStudio and git installed on your computer, and a G
 Tehilla is a PhD student studying cognitive science at UNSW, Sydney. Her research focuses on the interaction between risky decision-making and information-seeking behaviour.
 
 Jenny is a PhD student studying cognitive psychology at UNSW. Jenny’s research interests include studying the effects of interruptions and time-pressure on decision-making.
+
+
+**Links:**<br> 
+Here is a [Link](https://bit.ly/2Vlrdno) to the workshop's recording. 
