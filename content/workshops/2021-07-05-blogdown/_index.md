@@ -29,5 +29,3 @@ Jenny is a PhD student studying cognitive psychology at UNSW. Jenny’s research
 
 **Links:**<br> 
 Here is a [Link](https://bit.ly/2Vlrdno) to the workshop's recording. 
-
-
