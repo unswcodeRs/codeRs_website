@@ -1,7 +1,12 @@
 ---
 date: "2021-07-16"
 title: Blogdown Workshop
-url_pdf: "blogdown.pdf"
+
+links:
+- icon: recording
+  # icon_pack: fab
+  name: Workshop Recording
+  url: https://bit.ly/2Vlrdno
   
 ---
 
