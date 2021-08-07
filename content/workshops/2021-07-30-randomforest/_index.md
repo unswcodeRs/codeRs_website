@@ -27,3 +27,8 @@ We will start our workshop using decision trees to describe rules for classifyin
 
 **Bio:** 
 José Rafael Ferrer-Paris (a.k.a. JR) is currently a Research Fellow at the Center for Ecosystem Science at UNSW, and a member of the International Union for the Conservation of Nature (IUCN) Thematic Group on the Red List of Ecosystems. JR has studied and worked in Venezuela, Germany and South Africa with biodiversity data, spatial and temporal ecological data and geographical information systems. He is currently working with Prof. David Keith on global risk assessment of ecosystems. He has been using R since version 1.0.0, and also likes working with other command, scripting and programming languages like PHP, Bash, Python, JS, Java or Perl and all kinds of databases (SQL, XML, GDB). 
+
+
+**Links:**<br> 
+Here is a [Link](https://bit.ly/2VrCFh4) to the workshop's recording. 
+
