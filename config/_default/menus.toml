@@ -23,11 +23,6 @@
   weight = 30
   
 [[main]]
-  name = "Resources"
-  url = "resources"
-  weight = 40  
-  
-[[main]]
   name = "Github"
   url = "https://github.com/UNSW-codeRs"
   weight = 50  
