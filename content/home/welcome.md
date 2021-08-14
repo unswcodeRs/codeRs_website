@@ -17,6 +17,7 @@ advanced:
   css_class: 
 ---
 
+
 <img src="/home/welcome_files/logo.png" width=350 style = "margin-left: 0px; margin-right: 0px; float:right;" >
 
 
@@ -33,7 +34,7 @@ You can find us in <strong> Mathews room 105 between 2.30-3.30</strong>. <br> Ev
 ## **Workshops**
 
 - We have great workshops lined up for this year, including workshops on purrr, making websites with blogdown, and creating beautiful visualisations with ggplot!
-- Check out the [workshop page](https://unsw-coders.netlify.app/workshops/) to find out more information about upcoming workshops 
+- Check out the [workshop page](https://unsw-coders.netlify.app/workshops/) to find out details about upcoming workshops and resources from past workshops
 
 ## **Drop-in Help Sessions** 
 
@@ -42,7 +43,8 @@ You can find us in <strong> Mathews room 105 between 2.30-3.30</strong>. <br> Ev
 </div>
 
 
-
-
-
 <img src="/home/welcome_files/Flyer_Events.png" width=900 style = "margin-left: 100px; margin-right: 0px; float:center;" >
+
+<br>
+
+*This website was built by Tehilla Ostrovsky and Jenny Sloane completely in **R** using the `blogdown` package* :smile:
