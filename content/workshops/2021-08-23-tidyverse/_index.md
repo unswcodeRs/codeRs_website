@@ -16,7 +16,7 @@ This workshop is designed to get you started, demonstrate what is possible, and 
  
 ### Please download before the workshop:
 1. R
-2. 2. Rstudio
+2. Rstudio
  
  
 <img src="tidyverse.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;" >
