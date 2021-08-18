@@ -10,7 +10,7 @@ view: 2
 
 # Upcoming Workshops:
 
-<h2> - 30th August: Intro to R and Data Wrangling </h2>
+<h2> - 30th August: What R and the Tidyverse can do for you </h2>
 
 <img src="getting_started.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;" >
 
