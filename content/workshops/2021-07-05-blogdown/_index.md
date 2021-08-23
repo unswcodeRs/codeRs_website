@@ -1,31 +1,29 @@
 ---
-design:
-  columns: "1"
-headless: true
-subtitle: null
-title: 
-weight: 60
-widget: blank
-
-title: "Blogdown and making websites in R"
-date: 2021-07-05
+date: "2021-07-16"
+title: Blogdown and Making Websites in R
+url_pdf: blogdown.pdf
+links:
+- icon: recording
+  # icon_pack: fab
+  name: Workshop Recording 
+  url: https://bit.ly/2Vlrdno
 ---
-<span style="color: red;">**Update:**
-Due to the current COVID situation, this workshop will most likely be completely online. If you wish to attend, please sign up (see the Sign Up tab in the navigation bar) and we will send you a Zoom link prior to the event. looking forward ot see you all there!</span>
+
+## Resources created by Jenny and Tehilla  
+- See the links above for the slides and the recording from the workshop
+- You can find the material for this workshop on Github [here](https://github.com/UNSW-codeRs/Blogdown-Workshop)!
+- Jenny and Tehilla have posted tutorials on YouTube for how to build an academic website using R blogdown. You can check out our [YouTube Playlist here](https://www.youtube.com/playlist?list=PLpZT7JPM8_GbPiX4ibrP7ogl7GyEofZMj). More videos to come! 
+- You can also check out [Jenny's blog](https://jennysloane.netlify.app/project/blogdown/) for a step-by-step guide for building an academic website
+- The PDF link has a copy of the slides from the workshop
+   
+## Additional Resources
+- We also highly recommend checking out [Alison Hill's blogdown blog](https://alison.rbind.io/blog/2020-12-new-year-new-blogdown/). This is an incredibly useful resource and definitely helped me learn how to use blogdown
+- And finally here's an [r-bloggers website](https://www.r-bloggers.com/2020/02/what-to-know-before-you-adopt-hugo-blogdown/) with useful information on Hugo and blogdown
+
+<img src="blogdown.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;" >
 
 
-<img src="blogdown.png" width=1000 style = "margin-left: 0px; margin-right: 0px; float:right;" >
-
-**Abstract:**
-This workshop invites R users with basic/intermediate knowledge who are interested in learning how to build their personal website using the Blogdown package (No prior knowledge with Blogdown is required). This workshop will be an interactive presentation, where we will build a website together from scratch. We will also provide further resources that will allow you to continue enhancing your website on your own.
-Please make sure you have R, RStudio and git installed on your computer, and a GitHub account.
-
-**Bios:** 
-
-Tehilla is a PhD student studying cognitive science at UNSW, Sydney. Her research focuses on the interaction between risky decision-making and information-seeking behaviour.
-
-Jenny is a PhD student studying cognitive psychology at UNSW. Jenny’s research interests include studying the effects of interruptions and time-pressure on decision-making.
 
 
-**Links:**<br> 
-Here is a [Link](https://bit.ly/2Vlrdno) to the workshop's recording. 
+
+

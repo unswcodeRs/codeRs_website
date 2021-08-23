@@ -1,3 +1,10 @@
+---
+header:
+  caption: ""
+  image: ""
+title: 
+view: 2
+---
 
 # Who are we?
 
@@ -17,5 +24,4 @@ Our community also hosts other social events that revolve around R and coding ba
 
 # Where do we see ourselves going?
 
-Life at university is dynamic. People complete their UNSW candidatures and move on to their next chapters. We hope UNSW coders will continue to grow and recruit new members and become a self-sustainable communtity driven by the support, passion and curiousity of our members.
-
+Life at university is dynamic. People complete their UNSW candidatures and move on to their next chapters. We hope UNSW coders will continue to grow and recruit new members and become a self-sustainable community driven by the support, passion and curiosity of our members.
