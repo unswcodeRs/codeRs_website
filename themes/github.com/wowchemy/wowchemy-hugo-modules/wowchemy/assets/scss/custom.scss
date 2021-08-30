@@ -1,10 +1,18 @@
 // Override this file to add your own SCSS styling.
-.article-container {
-    max-width: 1500px;
-    padding: 0 20px 0 20px;
-    margin: 0 auto 0 auto;
-}
+//.article-container {
+//    max-width: 1500px;
+//    padding: 0 20px 0 20px;
+//   margin: 0 auto 0 auto;
+//}
 
+.article-container {
+    margin: 0 auto;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-top: 0.1rem;
+    width: 100%;
+    max-width: 1000px;
+}
 ul.nav-icons {
     list-style-type: none;
     font-size: 30px;
