@@ -20,6 +20,7 @@ links:
 - We also highly recommend checking out [Alison Hill's blogdown blog](https://alison.rbind.io/blog/2020-12-new-year-new-blogdown/). This is an incredibly useful resource and definitely helped me learn how to use blogdown
 - And finally here's an [r-bloggers website](https://www.r-bloggers.com/2020/02/what-to-know-before-you-adopt-hugo-blogdown/) with useful information on Hugo and blogdown
 
+
 <img src="blogdown.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;" >
 
 
