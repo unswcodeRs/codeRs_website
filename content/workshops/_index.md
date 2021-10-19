@@ -10,9 +10,8 @@ view: 2
 
 # Upcoming Workshops:
 
-<img src="data_vis.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;" >
+<!-- <img src="data_vis.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;" > -->
 
-<h2> - 11th October: Data Visualisation </h2>
 <h2> - 1st November: Git 101 </h2>
 
 
