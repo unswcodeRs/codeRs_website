@@ -10,9 +10,7 @@ view: 2
 
 # Upcoming Workshops:
 
-<!-- <img src="data_vis.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;" > -->
-
-<h2> - 1st November: Git 101 </h2>
+<img src="git_workshop.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;" >
 
 
 # Past Workshops & Resources:
