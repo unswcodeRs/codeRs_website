@@ -43,7 +43,7 @@ You can find us in <strong> Mathews room 105 between 2.30-3.30</strong>. <br> Ev
 </div>
 
 
-<img style="padding-left: 10px; margin-left:310px; height:700px; width:500px;" src="/home/welcome_files/Flyer_Schedule.png"/>
+<img style="padding-left: 80px; height:400px; width:1100px;" src="/home/welcome_files/Flyer_Schedule.png"/>
 
 
 <br>
