@@ -1,6 +1,6 @@
 ---
 date: "2022-04-04"
-title: "geospatial-data-in-R" 
+title: "Geospatial-data-in-R" 
 links:
 - icon: video
   # icon_pack: fas
