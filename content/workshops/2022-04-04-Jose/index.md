@@ -7,7 +7,7 @@ links:
   name: Workshop Recording 
   url: 
 - icon: Shiny App
-  icon_pack: fas
+  #icon_pack: fas
   name: <img width = 75, src = "ShinyApp-R.png"></img>
   url: https://ecosphere.shinyapps.io/tutorial-1-simple-features/#section-interactive-maps-with-mapview
 ---
