@@ -12,6 +12,5 @@ links:
   url: https://ecosphere.shinyapps.io/tutorial-1-simple-features/#section-interactive-maps-with-mapview
 ---
 
-<img src="geospatial_flyer.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;" >
 
 
