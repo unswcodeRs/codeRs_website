@@ -1,5 +1,5 @@
 ---
-date: "2022-03-07"
+date: "2022-07-03"
 title: "Getting Started -  What R and the Tidyverse can do for you" 
 links:
 - icon: video
