@@ -1,6 +1,6 @@
 ---
 date: "2022-04-04"
-title: "Geospatial Data in R""
+title: "Geospatial Data in R"
 
 links:
 - icon: video
