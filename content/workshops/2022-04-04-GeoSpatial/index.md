@@ -1,6 +1,6 @@
 ---
 date: "2022-03-07"
-title: "Getting Started -  What R and the Tidyverse can do for you" 
+title: "Geospatial Data in R" 
 links:
 - icon: video
   # icon_pack: fas
