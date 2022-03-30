@@ -5,11 +5,11 @@ links:
 - icon: video
   # icon_pack: fas
   name: Workshop Recording 
-  url: 
+  url: https://drive.google.com/drive/u/4/folders/1SF5iy_fGiLvTOsrutPvn_aWdpWIwdtYJ
 - icon: github
   icon_pack: fab
   name: github Material
-  url: 
+  url: https://drive.google.com/drive/u/4/folders/1SF5iy_fGiLvTOsrutPvn_aWdpWIwdtYJ
 ---  
 abstract:jose
   
