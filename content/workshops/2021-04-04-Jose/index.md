@@ -1,22 +1,20 @@
 ---
-date: "2022-04-04"
-title: "Geospatial-data-in-R" 
+date: 2021-05-16
+title: "Loops and beyond: Elegant iteration with the purrr package"
 links:
 - icon: video
   # icon_pack: fas
   name: Workshop Recording 
+  url: https://ecosphere.shinyapps.io/tutorial-1-simple-features
+- icon: github
+  icon_pack: fab
+  name: Shiny App 
   url: 
-- icon: Shiny App
-  icon_pack: fas
-  name:  R - Shiny App
-  url: https://ecosphere.shinyapps.io/tutorial-1-simple-features/#section-interactive-maps-with-mapview
+  
+abstract: |
+  Why 
 ---
 
-
 <img src="geospatial_flyer.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;" >
-
-
-
-
 
 
