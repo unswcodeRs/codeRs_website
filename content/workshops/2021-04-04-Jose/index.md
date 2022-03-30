@@ -1,6 +1,6 @@
 ---
 date: 2021-05-16
-title: "Loops and beyond: Elegant iteration with the purrr package"
+title: "Elegant iteration with the purrr package"
 links:
 - icon: video
   # icon_pack: fas
