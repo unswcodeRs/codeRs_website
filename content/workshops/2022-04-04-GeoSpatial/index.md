@@ -6,7 +6,6 @@ links:
   # icon_pack: fas
   name: Workshop Recording 
   url: 
-  
 - icon: github
   icon_pack: fab
   name: github Material
@@ -14,7 +13,6 @@ links:
 ---  
 abstract:jose
   
-
 <img src="geospatial_flyer.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;" >
 
 
