@@ -5,7 +5,7 @@ links:
 - icon: video
   # icon_pack: fas
   name: Workshop Recording 
-  url: 
+  url: https://drive.google.com/drive/u/4/folders/15lQKQz24BVm3kuR466BWyS4sWpeg9uDm
 - icon: 
   icon_pack: fab
   name: <img height = 200 width = 180 src = "ShinyApp-R.png">
