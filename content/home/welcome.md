@@ -28,7 +28,7 @@ UNSW codeRs is a student and staff run community dedicated for 'R' users. We set
 
 <div style = "text-align: center">
 We meet every <strong> 1st and 3rd Monday of the month </strong> during the academic terms. <br> 
-You can find us in <strong> Mathews room 105 between 2.30-3.30</strong>. <br> Everyone is welcome to join!<br><br>
+You can find us in <strong> BioSciG07 CATS room in Building D26, Ground floor  between 2.30-3.30</strong>. <br> Everyone is welcome to join!<br><br>
 </div>
 
 ## **Workshops**
