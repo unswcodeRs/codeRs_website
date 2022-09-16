@@ -43,7 +43,7 @@ You can find us in <strong> Teaching Lab 3 (Skeleton Lab) in Building D26, Groun
 </div>
 
 
-<img style="padding-left: 80px; height:400px; width:1100px;" src="/home/welcome_files/Schedule_T2.png"/>
+<!-- <img style="padding-left: 80px; height:400px; width:1100px;" src="/home/welcome_files/Schedule_T2.png"/> --!>
 
 
 <br>
