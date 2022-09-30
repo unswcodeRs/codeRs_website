@@ -4,6 +4,9 @@ header:
   image: ""
 title: 
 view: 2
+output: 
+  html_document: default
+    code_folding:hide
 ---
 
 # Upcoming Workshops:
@@ -16,6 +19,39 @@ view: 2
 Time: 2:30 - 3:30pm </strong>
 <!-- <img src="geospatial_flyer_2.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;"> --> 
 
+```{r} 
+knitr::opts_chunk$set(echo=FALSE) 
+```
+
+```{r echo = FALSE, include = FALSE}
+# Create a table for our events
+t3 <- data.frame(matrix(nrow = 5, ncol = 3))
+colnames(t3) <- c("Date", "Event Description", "Presenter name")
+
+t3[,1] <- c("12 Sept 2022", "26 Sept 2022", "10 Oct 2022", "24 Oct 2022", "07 Nov 2022")
+
+# Drop in help sessions
+t3[c(1, 3), 2] <- "Drop In Help Session"
+t3[c(1, 3), 3] <- "UNSWcodeRs helpers"
+
+# ggplot
+t3[2, 2] <- "It’s all about the aesthetics: dataviz with ggplot2::theme()"
+t3[2, 3] <- "PhD candidate Jess Tam"
+
+# Meta-analysis
+t3[4, 2] <- "Meta-analysis 101"
+t3[4, 3] <- "Prof. Shinichi Nakagawa"
+
+# R Slides
+t3[5, 2] <- "Create your presentations in R"
+t3[5, 3] <- "PhD candidature Tehilla Mechera-Ostrovsky"
+```
+
+
+```{r}
+library(knitr)
+knitr::kable(t3, "pipe")
+```
 
 
 # Past Workshops & Resources:

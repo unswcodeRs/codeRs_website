@@ -40,10 +40,12 @@ You can find us in <strong> [Teaching Lab 3 (Skeleton Lab)](https://studentvip.c
 
 - It doesn't matter if you are a complete beginner to R or if you have years of experience, everyone is welcome and encouraged to stop by our drop-in sessions
 - This is the perfect space to bring all of your coding questions or even just to hang out and code alongside other R users, so feel free to stop by even if you don't have any specific questions 
+
+## **Schedule for T3** 
+<img style="padding: 20px; height:380px; width:2000px; border:solid; border-color:red" src="/home/Flyer_Schedule.png"/>
+
 </div>
 
-
-<!-- <img style="padding-left: 80px; height:400px; width:1100px;" src="/home/welcome_files/Schedule_T2.png"/> --!>
 
 
 <br>

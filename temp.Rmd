@@ -1,0 +1,43 @@
+---
+title: "temp"
+author: "Tehilla Mechera-Ostrovsky"
+date: "30/09/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r include = FALSE}
+# Create a table for our events
+t3 <- data.frame(matrix(nrow = 5, ncol = 3))
+colnames(t3) <- c("Date", "Event Description", "Presenter name")
+
+t3[,1] <- c("12 Sept 2022", "26 Sept 2022", "10 Oct 2022", "24 Oct 2022", "07 Nov 2022")
+
+# Drop in help sessions
+t3[c(1, 3), 2] <- "Drop In Help Session"
+t3[c(1, 3), 3] <- "UNSWcodeRs helpers"
+
+# ggplot
+t3[2, 2] <- "It’s all about the aesthetics: dataviz with ggplot2::theme()"
+t3[2, 3] <- "PhD candidate Jess Tam"
+
+# Meta-analysis
+t3[4, 2] <- "Meta-analysis 101"
+t3[4, 3] <- "Prof. Shinichi Nakagawa"
+
+# R Slides
+t3[5, 2] <- "Create your presentations in R"
+t3[5, 3] <- "PhD candidature Tehilla Mechera-Ostrovsky"
+```
+
+```{r}
+library(kableExtra)
+kable(t3) %>%
+  kable_styling(font_size = 20) %>% 
+  kable_styling(full_width = FALSE) %>%
+  column_spec(1, width = "7em")
+```
+
