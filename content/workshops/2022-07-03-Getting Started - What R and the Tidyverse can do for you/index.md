@@ -9,7 +9,7 @@ links:
 - icon: github
   icon_pack: fab
   name: github Material
-  url: https://drive.google.com/drive/u/4/folders/1SF5iy_fGiLvTOsrutPvn_aWdpWIwdtYJ
+  url: https://github.com/UNSW-codeRs/R_Rstudio_tidyverse
 ---  
 abstract: R is becoming a standard method for analysing data yet at first R can be overwhelming and may seem like a foreign language. In this workshop, you will be introduced to the coding language R, the software RStudio, and a tool called the tidyverse. You will learn how to import, manipulate and analyse a dataset using practical examples.<br>This workshop is designed to get you started, demonstrate what is possible, and give you resources for further learning.  The workshop is targeted at Honour's and postdoc students, but is suitable for anyone who has ever wondered, "What is this R thing everyone keeps talking about?". 
 
