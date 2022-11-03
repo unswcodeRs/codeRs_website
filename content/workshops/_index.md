@@ -13,7 +13,7 @@ output:
 
 # Upcoming Workshops:
 <!-- <p style="color:red;font-family:courier;"><strong> We have had to postpone our August workshop on ggplot until next term (details to follow very soon!). Instead, we will still be available on Monday for a drop-in help session - details below.</strong></p> --> 
-<!--  <img src="metaanlysis-01.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;">--> 
+<img src="Phylogenetic_trees.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;">
 
 <strong>Location: [Teaching Lab 3 (Skeleton Lab)](https://studentvip.com.au/unsw/kensington/maps/134111) in Building D26, Ground floor 
 Time: 2:30 - 3:30pm </strong>
