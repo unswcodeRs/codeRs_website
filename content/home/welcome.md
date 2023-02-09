@@ -27,22 +27,20 @@ advanced:
 UNSW codeRs is a student and staff run community dedicated for 'R' users. We set up events that cater to learning R. We meet fortnightly, alternating between workshops, drop-in help sessions, and other social events. <br><br>
 
 
-We meet every <strong> 1st and 3rd Monday of the month </strong> during the academic terms. <br> 
-You can find us in <strong> [Teaching Lab 3 (Skeleton Lab)](https://studentvip.com.au/unsw/kensington/maps/134111/) in Building D26, Ground floor  between 2.30-3.30</strong>. <br> Everyone is welcome to join!<br><br>
+We will meet every <strong> 1st and 3rd Wednesday of the month </strong> during the first academic term of 2023. <br> 
+You can find us in <strong> [Teaching Lab 3 (Skeleton Lab)](https://studentvip.com.au/unsw/kensington/maps/134111/) in Building D26, Ground floor  between 1.00-2.00</strong>. <br> Everyone is welcome to join!<br><br>
 
 
 ## **Workshops**
 
-- We have great workshops lined up for this year, including workshops on purrr, making websites with blogdown, and creating beautiful visualisations with ggplot!
-- Check out the [workshop page](https://unsw-coders.netlify.app/workshops/) to find out details about upcoming workshops and resources from past workshops
+- We are still planning workshops for later this year (Term 2 and Term 3), please check later for updates
+- Check out the [workshop page](https://unsw-coders.netlify.app/workshops/) to find out details about resources from past workshops
 
 ## **Drop-in Help Sessions** 
 
 - It doesn't matter if you are a complete beginner to R or if you have years of experience, everyone is welcome and encouraged to stop by our drop-in sessions
 - This is the perfect space to bring all of your coding questions or even just to hang out and code alongside other R users, so feel free to stop by even if you don't have any specific questions 
 
-## **Schedule for T3** 
-<img style="padding: 20px; height:300px; width:2000px; border:solid; border-color:red" src="/home/Flyer_Schedule.png"/>
 
 </div>
 
@@ -51,3 +49,4 @@ You can find us in <strong> [Teaching Lab 3 (Skeleton Lab)](https://studentvip.c
 <br>
 
 *This website was built by Tehilla Ostrovsky and Jenny Sloane completely in **R** using the `blogdown` package* :smile:
+*Updates by José R. Ferrer Paris* :smile:
