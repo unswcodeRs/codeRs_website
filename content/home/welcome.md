@@ -28,7 +28,7 @@ UNSW codeRs is a student and staff run community dedicated for 'R' users. We set
 
 
 We will meet every <strong> 1st and 3rd Wednesday of the month </strong> during the first academic term of 2023. <br> 
-You can find us in <strong> [Teaching Lab 3 (Skeleton Lab)](https://studentvip.com.au/unsw/kensington/maps/134111/) in Building D26, Ground floor  between 1.00-2.00</strong>. <br> Everyone is welcome to join!<br><br>
+You can find us in <strong> [G/F Lab03](https://studentvip.com.au/unsw/kensington/maps/134111/) in Building E26, Ground floor  between 1.00-2.00</strong>. <br> Everyone is welcome to join!<br><br>
 
 
 ## **Workshops**
