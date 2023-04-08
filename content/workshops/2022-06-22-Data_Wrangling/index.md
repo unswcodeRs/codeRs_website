@@ -1,11 +1,8 @@
 ---
-date: 2022-20-06
+date: "2022-20-06"
 title: "Data Wrangling Workshop"
 links:
-# - icon: video
-  # icon_pack: fas
-  # name: Workshop Recording 
-  # url: https://bit.ly/3rQse2N
+
 - icon: github
   icon_pack: fab
   name: github Material

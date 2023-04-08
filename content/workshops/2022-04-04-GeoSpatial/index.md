@@ -1,11 +1,15 @@
 ---
-date: '2022-25-03'
-title: "Geospatial Data in R" 
+date: "2022-25-03"
+title: "Geospatial Data in R"
 links:
 - icon: video
   # icon_pack: fas
   name: Workshop Recording 
   url: https://drive.google.com/drive/u/4/folders/15lQKQz24BVm3kuR466BWyS4sWpeg9uDm
+- icon: github
+  icon_pack: fab
+  name: github Material
+  url: https://github.com/UNSW-codeRs/geospatial-data-in-R
 - icon: 
   icon_pack: fab
   name: <img height = 200 width = 180 src = "ShinyApp-R.png">

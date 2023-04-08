@@ -1,5 +1,5 @@
 ---
-date: '2022-26-09'
+date: "2022-26-09"
 title: "Data Visualization - ggplot themes in R" 
 links:
 # - icon: video

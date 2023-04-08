@@ -12,9 +12,7 @@ hero_media:
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-advanced:
-  css_style: 
-  css_class: 
+
 ---
 
 
@@ -34,7 +32,7 @@ You can find us in <strong> [G/F Lab03](https://studentvip.com.au/unsw/kensingto
 ## **Workshops**
 
 - We are still planning workshops for later this year (Term 2 and Term 3), please check later for updates
-- Check out the [workshop page](https://unsw-coders.netlify.app/workshops/) to find out details about resources from past workshops
+- Check out the [workshop page](workshops/) to find out details about resources from past workshops
 
 ## **Drop-in Help Sessions** 
 
@@ -44,7 +42,25 @@ You can find us in <strong> [G/F Lab03](https://studentvip.com.au/unsw/kensingto
 
 </div>
 
+```{r include=FALSE}
+library(knitr)
+library(kableExtra)
+df_results <- data.frame(
+  Date = c("5th April 2023","26th April 2023"),
+  Event = c("Drop-in help session","Drop-in help session")
+)
+df_results = as.data.frame(df_results)
+kable_results_2 = kbl(df_results, align = "c",
+                
+              # escape = F,
+              caption = "Forthcoming events") %>%
+    kable_paper("hover") %>%
+    kable_styling(font_size = 24, html_font = "Courier New",full_width=FALSE)
+```
 
+```{r, include=TRUE, echo=FALSE}
+kable_results_2
+```
 
 <br>
 
