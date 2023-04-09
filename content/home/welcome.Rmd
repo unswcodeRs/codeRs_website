@@ -15,9 +15,7 @@ design:
 
 ---
 
-
 <img src="/home/welcome_files/logo.png" width=350 style = "margin-left: 0px; margin-right: 0px; float:right;" >
-
 
 <div style = "margin-left: 80px; margin-right: 80px;">
 
@@ -40,7 +38,6 @@ You can find us in <strong> [G/F Lab03](https://studentvip.com.au/unsw/kensingto
 - This is the perfect space to bring all of your coding questions or even just to hang out and code alongside other R users, so feel free to stop by even if you don't have any specific questions 
 
 
-</div>
 
 ```{r include=FALSE}
 library(knitr)
@@ -61,6 +58,8 @@ kable_results_2 = kbl(df_results, align = "c",
 ```{r, include=TRUE, echo=FALSE}
 kable_results_2
 ```
+
+</div>
 
 <br>
 
