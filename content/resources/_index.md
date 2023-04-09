@@ -11,4 +11,4 @@ view: 2
 - [Stats Central](https://www.analytical.unsw.edu.au/facilities/stats-central)
 - [Environmental Computing](http://environmentalcomputing.net/)
 - [UNSW Hacky Hour](https://research.unsw.edu.au/hacky-hour)
-- [RLaides Sydney](https://rladiessydney.org/)
+- [RLadies Sydney](https://rladiessydney.org/)
