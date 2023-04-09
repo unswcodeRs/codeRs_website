@@ -1,5 +1,5 @@
 ---
-date: "2022-20-06"
+date: "2022-06-20"
 title: "Data Wrangling Workshop"
 links:
 
