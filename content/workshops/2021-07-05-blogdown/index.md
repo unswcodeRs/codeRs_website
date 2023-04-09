@@ -1,6 +1,6 @@
 ---
 date: "2021-07-16"
-title: Blogdown and Making Websites in R
+title: "Blogdown and Making Websites in R"
 url_pdf: blogdown.pdf
 links:
 - icon: video

@@ -1,5 +1,5 @@
 ---
-date: 2021-07-30
+date: "2021-07-30"
 title: "Introduction to Classification Trees and Random Forests in R"
 links:
 - icon: video 

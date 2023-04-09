@@ -1,6 +1,6 @@
 ---
 date: "2021-10-11"
-title: Data Visualisation with ggplot
+title: "Data Visualisation with ggplot"
 links:
 - icon: video
   # icon_pack: fas

@@ -1,5 +1,5 @@
 ---
-date: 2021-05-16
+date: "2021-05-16"
 title: "Loops and beyond: Elegant iteration with the purrr package"
 links:
 - icon: video

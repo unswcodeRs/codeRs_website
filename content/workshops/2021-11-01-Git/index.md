@@ -1,6 +1,6 @@
 ---
 date: "2021-11-01"
-title: Version Control with Git 
+title: "Version Control with Git "
 links:
 - icon: video
   # icon_pack: fas
