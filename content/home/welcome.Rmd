@@ -23,13 +23,13 @@ design:
 UNSW codeRs is a student and staff run community dedicated for 'R' users. We set up events that cater to learning R. We meet fortnightly, alternating between workshops, drop-in help sessions, and other social events. <br><br>
 
 
-We will meet every <strong> 1st and 3rd Wednesday of the month </strong> during the first academic term of 2023. <br> 
-You can find us in <strong> [G/F Lab03](https://studentvip.com.au/unsw/kensington/maps/134111/) in Building E26, Ground floor  between 1.00-2.00</strong>. <br> Everyone is welcome to join!<br><br>
+We will meet every <strong> every other Wednesday of the month </strong> during the second academic term of 2023. <br> 
+You can find us in <strong> [Matthews 226](https://studentvip.com.au/unsw/kensington/maps/133861) in Mathews Building ([Building ID K-F23](https://www.learningenvironments.unsw.edu.au/physical-spaces/mathews-building/k-f23-226-mathews-226))  between 1.00-2.00</strong>. <br> Everyone is welcome to join!<br><br>
 
 
 ## **Workshops**
 
-- We are still planning workshops for later this year (Term 2 and Term 3), please check later for updates
+- We are planning two workshops in Term 2, please stay tuned for details!
 - Check out the [workshop page](workshops/) to find out details about resources from past workshops
 
 ## **Drop-in Help Sessions** 
@@ -43,12 +43,12 @@ You can find us in <strong> [G/F Lab03](https://studentvip.com.au/unsw/kensingto
 library(knitr)
 library(kableExtra)
 df_results <- data.frame(
-  Date = c("5th April 2023","26th April 2023"),
-  Event = c("Drop-in help session","Drop-in help session")
+  Date = c("7th June 2023","21st June 2023", "5th July 2023", "19th July 2023", "2nd August 2023"),
+  Event = c("Drop-in help session","Drop-in help session","Workshop","Drop-in help session","Workshop"),
+  Presenter = c("UNSW codeRs team","UNSW codeRs team","Gary Truong","UNSW codeRs team","Anikó Tóth")
 )
 df_results = as.data.frame(df_results)
 kable_results_2 = kbl(df_results, align = "c",
-                
               # escape = F,
               caption = "Forthcoming events") %>%
     kable_paper("hover") %>%
@@ -64,4 +64,6 @@ kable_results_2
 <br>
 
 *This website was built by Tehilla Ostrovsky and Jenny Sloane completely in **R** using the `blogdown` package* :smile:
+
+
 *Updates by José R. Ferrer Paris* :smile:
