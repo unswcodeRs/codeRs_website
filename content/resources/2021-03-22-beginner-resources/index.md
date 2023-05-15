@@ -3,8 +3,11 @@ date: "2021-04-06"
 title: R Resources for Beginners
 ---
 
-# Are you new to R and don't know where to start? 
-## If so... the perfect post for you!
+***Are you new to R and don't know where to start?***
+
+ If so... the perfect post for you!
+
+<!--more-->
 
 We all know how difficult and time consuming it is to learn how to program. Fortunately, there are already some great resources out there to help you get started.
 
