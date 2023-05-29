@@ -3,7 +3,8 @@ content:
   user_groups:
   - General
   - Committee Members
-  - Contributers
+  - Members
+  - Contributors
   - Principal Investigators
   - Researchers
   - Grad Students
