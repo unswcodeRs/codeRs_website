@@ -35,3 +35,12 @@ Please replace the demo images with your own.
 
 
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-research-group/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+
+Steps to build site:
+```{r}
+install.packages("blogdown")
+blogdown::install_hugo("0.82.0")
+blogdown::serve_site()
+```
+
+https://github.com/ikatyang/emoji-cheat-sheet#flags
