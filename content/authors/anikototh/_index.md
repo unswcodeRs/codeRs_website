@@ -45,7 +45,7 @@ social:
 superuser: false
 title: Dr. Anikó B. Tóth
 user_groups:
-- Committee Members
+- Members
 ---
 
 Anikó completed her PhD at Macquarie University in 2019. Prior to her studies in Australia, she was a research consultant at the Smithsonian's National Museum of Natural History for 5 years. She is a member of the Evolution of Terrestrial Ecosystems program, which researches community assembly processes of land animals and plants on geological timescales. She is currently a postdoc working with David Keith on risk assessment models for Antarctic ecosystems. She is passionate about helping researchers improve their digital literacy and coding skills. She was the president of the R users group at Macquarie University for two years.
