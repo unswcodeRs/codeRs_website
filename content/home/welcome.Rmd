@@ -2,7 +2,6 @@
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
- 
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
@@ -12,39 +11,22 @@ hero_media:
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-
 ---
-
-<img src="/home/welcome_files/logo.png" width=350 style = "margin-left: 0px; margin-right: 0px; float:right;" >
 
 <div style = "margin-left: 80px; margin-right: 80px;">
 
-<br>
-UNSW codeRs is a student and staff run community dedicated for 'R' users. We set up events that cater to learning R. We meet fortnightly, alternating between workshops, drop-in help sessions, and other social events. <br><br>
+<img src="/images/logo.png" width=350 style = "margin-left: 0px; margin-right: 0px; float:right" >
 
+UNSW codeRs is a student and staff run community dedicated for 'R' users. We set up events that cater to learning R. We meet fortnightly, alternating between workshops, drop-in help sessions, and other social events.
 
-We will meet every <strong> every other Wednesday of the month </strong> during the second academic term of 2023. <br> 
-You can find us in <strong> [Matthews 226](https://studentvip.com.au/unsw/kensington/maps/133861) in Mathews Building ([Building ID K-F23](https://www.learningenvironments.unsw.edu.au/physical-spaces/mathews-building/k-f23-226-mathews-226))  between 1.00-2.00</strong>. <br> Everyone is welcome to join!<br><br>
-
-
-## **Workshops**
-
-- We are planning two workshops in Term 2, please stay tuned for details!
-- Check out the [workshop page](workshops/) to find out details about resources from past workshops
-
-## **Drop-in Help Sessions** 
-
-- It doesn't matter if you are a complete beginner to R or if you have years of experience, everyone is welcome and encouraged to stop by our drop-in sessions
-- This is the perfect space to bring all of your coding questions or even just to hang out and code alongside other R users, so feel free to stop by even if you don't have any specific questions 
-
-
+We will meet **every other Wednesday of the month** during the second academic term of 2023. Everyone is welcome to join!
 
 ```{r include=FALSE}
 library(knitr)
 library(kableExtra)
 df_results <- data.frame(
   Date = c("7th June 2023","21st June 2023", "5th July 2023", "19th July 2023", "2nd August 2023"),
-  Event = c("Drop-in help session","Drop-in help session","Workshop","Drop-in help session","Workshop"),
+  Event = c("Drop-in help session","Drop-in help session","Workshop: R basics","Drop-in help session","Workshop: purrr"),
   Presenter = c("UNSW codeRs team","UNSW codeRs team","Gary Truong","UNSW codeRs team","Anikó Tóth")
 )
 df_results = as.data.frame(df_results)
@@ -59,9 +41,25 @@ kable_results_2 = kbl(df_results, align = "c",
 kable_results_2
 ```
 
+
+{{% callout note %}}
+You can find us in <strong> [CATS 226](https://studentvip.com.au/unsw/kensington/maps/133861) in Mathews Building ([Building ID K-F23](https://www.learningenvironments.unsw.edu.au/physical-spaces/mathews-building/k-f23-226-mathews-226))  between 1.00-2.00</strong>. <br/>  :cookie: Snacks will be provided! :grinning:
+{{% /callout %}}
+
+
+## Workshops
+
+- We are planning two workshops in Term 2, please stay tuned for details!
+- Check out the [workshop page](workshops/) to find out details about resources from past workshops
+
+## Drop-in Help Sessions 
+
+- It doesn't matter if you are a complete beginner to R or if you have years of experience, everyone is welcome and encouraged to stop by our drop-in sessions
+- This is the perfect space to bring all of your coding questions or even just to hang out and code alongside other R users, so feel free to stop by even if you don't have any specific questions 
+
+
 </div>
 
-<br>
 
 *This website was built by Tehilla Ostrovsky and Jenny Sloane completely in **R** using the `blogdown` package* :smile:
 
