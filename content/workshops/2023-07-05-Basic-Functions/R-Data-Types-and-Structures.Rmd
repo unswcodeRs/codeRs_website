@@ -1,0 +1,209 @@
+---
+date: "2023-07-05"
+title: How Functional is your R code? Introduction to writing your own functions in R
+author: "Gary Truong"
+---
+
+# Introduction
+
+
+## R Data Types
+
+Data structures <- Data Types <- Elements (smallest unit possible)
+
+
+Some common R data types
+
+- Character
+- Numeric
+- Integer
+- Complex Numbers
+- Logical
+- Factor
+
+
+Characters (can be letters, numbers, symbols)
+```{r}
+# using " " will generate character data types
+a <- c("a","b","c","d") # letters as characters
+class(a)
+str(a)
+
+a1 <- c("1","2","3","4") # numbers as characters
+str(a1)
+
+a2 <- c("@","#","$","%") # symbols as characters
+str(a2)
+```
+
+Numeric (decimal numbers)
+```{r}
+b <- c(1,2,3,4) # numeric class even though they are integers
+class(b)
+str(b)
+
+b1 <- c(1.1, 2.1, 3.1, 4.1) # numeric decimals
+str(b1)
+```
+
+Integer (whole numbers)
+```{r}
+c <- c(1L, 2L, 3L, 4L) # adding the L after the number will make it into integer class
+class(c)
+str(c)
+
+c1 <- c(1:4) # the colon between the two numbers coerces into integer
+str(c1)
+
+# What do we get When we compare the numeric vector with the integer vector
+identical(b, c)
+
+identical(c, c1)
+```
+
+Complex Numbers
+```{r}
+d <- c(1i, 2i, 3i, 4i) # complex numbers
+class(d)
+str(d)
+```
+
+Logical
+```{r}
+e <- c(TRUE, TRUE, FALSE, FALSE) # logical class,
+class(e)
+str(e)
+
+c(T, T, F, F) # T and F are equivalent to TRUE and FALSE
+```
+
+Factor
+```{r}
+f <- factor(c("Jan", "Feb", "Mar", "Apr")) # creating a factor vector of months with 4 levels
+class(f)
+str(f)
+```
+
+Are there any questions so far? 
+
+
+## R data structures
+
+- Vectors
+- Matrix
+- Data Frames
+- Lists
+
+Data structures <- Data Types <- Elements
+
+
+Vectors
+
+Vectors are the simplest data structures in R and probably the most common 
+
+Vectors can only contain elements of the same data type. (i.e. character(a,b,c,d), 
+numeric(1,2,3,4), etc)
+ 
+To create a vector in R, use the concatentate (combine) function c()
+
+All of the objects created above are vectors
+
+
+
+Question: What happens if we try to combine different data types? 
+```{r}
+g <- c(1, 2L, "c", TRUE) # what class would this be?
+class(g)
+str(g)
+
+```
+
+
+Indexing is used to access individual elements in a data structure
+
+Vector Indexing
+```{r}
+# Positional Indexing
+g <- c(1, 2L, "c", TRUE)
+
+g[1]
+g[3:4] 
+
+# logical indexing
+g[g == 3] # instead of specifying a position, we use == to match with a value
+g[g > "1"] 
+```
+
+Matrices and Arrays
+
+
+```{r}
+# 1 dimensional matrices
+
+x <- matrix(1:24, 4, 6)
+x[,1]
+
+x1 <- matrix(letters[1:24], 4, 6) 
+x1[,1]
+
+# Multidimensional arrays
+
+y <- array(c(x,x1), dim = c(4,6,2)) 
+y[,,1]
+y[,1,1]
+y[,,2]
+y[,1,2]
+y[,1,]
+```
+
+
+Data Frames and tibbles
+
+A tibble is a data frame but has been altered to work better with the tidyverse packages
+```{r}
+h <- data.frame(a,b,c,d,e,f,g) # read.csv() to read in data as a data frame
+class(h)
+str(h)
+
+h1 <- tidyr::tibble(a,b,c,d,e,f,g) # read_csv() to read in data as a tibble
+h1
+class(h1)
+str(h1)
+
+# Indexing a data frame
+h
+h[1:3,1]
+h$a
+h$a[1]
+h$a[3:4]
+h$a[a == "d"]
+h[,1]
+# h[,,2] = h1
+```
+
+
+List 
+
+Data structure <- Data Types <- Elements
+
+```{r}
+i <- list(a,b,c,d,e,f,g,h)
+class(i)
+str(i)
+
+#indexing a vector within a list
+i
+i[1]
+i[[1]][1]
+i[[1]][3:4]
+
+# indexing a data frame within a list
+i[[8]]
+i[[8]][1]
+i[[8]]$a[1]
+i[[8]]$a[c(1,3:4)]
+
+#You can also have a list within a list 
+```
+
+
