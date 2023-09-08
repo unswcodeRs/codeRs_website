@@ -1,7 +1,4 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
@@ -17,20 +14,35 @@ design:
 
 <img src="/images/logo.png" width=350 style = "margin-left: 0px; margin-right: 0px; float:right" >
 
-UNSW codeRs is a student and staff run community dedicated for 'R' users. We set up events that cater to learning R. We meet fortnightly, alternating between workshops, drop-in help sessions, and other social events.
+UNSW codeRs is a vibrant community fueled by students and staff who share a passion for 'R' programming. Our committee organises relaxed meetings perfect for mastering 'R' and connecting with fellow coding enthusiasts. Whether you're a beginner venturing into coding or an experienced programmer aiming to enhance your skills, codeRs is your supportive haven. 
 
-We will meet **every other Wednesday of the month** during the second academic term of 2023. Everyone is welcome to join!
+During the third academic term of 2023  we will meet **weekly every Thursday** (14 Sep 2023 until 7 Dec 2023) from 10:00 am to 11:00 am. 
+
+All UNSW members are welcome, no prior experience needed, no reservations required, and snacks are on us!  
+
 
 ```{r include=FALSE}
 library(knitr)
 library(kableExtra)
 df_results <- data.frame(
-  Date = c("7th June 2023","21st June 2023", "5th July 2023", "19th July 2023", "2nd August 2023"),
-  Event = c("Drop-in help session","Drop-in help session","Workshop: R basics","Drop-in help session","Workshop: purrr"),
-  Presenter = c("UNSW codeRs team","UNSW codeRs team","Gary Truong","UNSW codeRs team","Anikó Tóth")
+  Date = c("14 September 2023",
+           "21 September 2023", 
+           "28 September 2023", 
+           "5 October 2023", 
+           "12 October 2023", 
+           "19 October 2023", 
+           "26 October 2023", 
+           "2 November 2023", 
+           "9 November 2023", 
+           "16 November 2023", 
+           "23 November 2023", 
+           "30 November 2023", 
+           "7 December 2023"),
+  Event = rep("Drop-in help session",13),
+  Presenter = rep("UNSW codeRs team",13)
 )
 df_results = as.data.frame(df_results)
-kable_results_2 = kbl(df_results, align = "c",
+kable_results_2 = kbl(df_results[,c(1:2)], align = "c",
               # escape = F,
               caption = "Forthcoming events") %>%
     kable_paper("hover") %>%
@@ -43,14 +55,13 @@ kable_results_2
 
 
 {{% callout note %}}
-You can find us in <strong> [CATS 226](https://studentvip.com.au/unsw/kensington/maps/133861) in Mathews Building ([Building ID K-F23](https://www.learningenvironments.unsw.edu.au/physical-spaces/mathews-building/k-f23-226-mathews-226))  between 1.00-2.00</strong>. <br/>  :cookie: Snacks will be provided! :grinning:
+You can find us in room <strong> [Kens E26 Lv4 4063](https://studentvip.com.au/unsw/kensington/maps/134104) in the 4th level of the Biological Science Building ([Building ID K-E26](https://studentvip.com.au/unsw/kensington/maps/134104))</strong>. <br/>  :cookie: Snacks will be provided! :grinning:
 {{% /callout %}}
 
 
 ## Workshops
 
-- We are planning two workshops in Term 2, please stay tuned for details!
-- Check out the [workshop page](workshops/) to find out details about resources from past workshops
+Check out the [workshop page](workshops/) to find out details about resources from past workshops
 
 ## Drop-in Help Sessions 
 
@@ -64,4 +75,4 @@ You can find us in <strong> [CATS 226](https://studentvip.com.au/unsw/kensington
 *This website was built by Tehilla Ostrovsky and Jenny Sloane completely in **R** using the `blogdown` package* :smile:
 
 
-*Updates by José R. Ferrer Paris* :smile:
+*Updates by José R. Ferrer Paris* :grinning:

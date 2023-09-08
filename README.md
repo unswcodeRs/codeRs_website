@@ -23,6 +23,7 @@ _[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful websit
 ```{r}
 install.packages("blogdown")
 blogdown::install_hugo("0.82.0")
+blogdown::build_site(build_rmd = TRUE)
 blogdown::serve_site()
 ```
 
