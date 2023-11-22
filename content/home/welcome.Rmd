@@ -35,13 +35,12 @@ df_results <- data.frame(
            "2 November 2023", 
            "9 November 2023", 
            "16 November 2023", 
-           "23 November 2023", 
-           "30 November 2023", 
-           "7 December 2023"),
-  Event = rep("Drop-in help session",13),
-  Presenter = rep("UNSW codeRs team",13)
+           "23 November 2023"),
+  Event = rep("Drop-in help session",11),
+  Presenter = rep("UNSW codeRs team",11)
 )
 df_results = as.data.frame(df_results)
+df_results[11,"Event"] <- "Last Drop-in help session"
 kable_results_2 = kbl(df_results[,c(1:2)], align = "c",
               # escape = F,
               caption = "Forthcoming events") %>%
