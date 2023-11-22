@@ -29,7 +29,7 @@ social:
 superuser: false
 title: Charlotte Page
 user_groups:
-- Committee Members
+- Contributors
 ---
 
 I am a PhD student at UNSW where my research interests are focussed on understanding how hard coral species respond to the host of stressors that threaten reefs. My PhD project looks to bring together an understanding of the impacts of external stressors on coral functioning and health, with consideration of how the physical oceanographic environment can mediate these often-negative relationships. Through studying coral health within the context of the environment in this way, I hope to aid in informing successful management and rehabilitation of these valuable ecosystems.

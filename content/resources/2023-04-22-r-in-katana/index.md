@@ -35,4 +35,3 @@ The full UNSW Katana Documentation can be found at https://docs.restech.unsw.edu
 
 You can check the [Katana for R workshop](/workshops/2022-08-01-katana/) material for a first intro.
 
-

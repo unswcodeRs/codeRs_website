@@ -1,0 +1,39 @@
+---
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+date: "2021-04-06"
+weight: 10  # Order that this section will appear.
+title: "Test diagrammeR in Rmarkdown"
+diagram: true
+---
+
+<script src="{{< blogdown/postref >}}index_files/htmlwidgets/htmlwidgets.js"></script>
+<script src="{{< blogdown/postref >}}index_files/d3/d3.min.js"></script>
+<script src="{{< blogdown/postref >}}index_files/dagre/dagre-d3.min.js"></script>
+<link href="{{< blogdown/postref >}}index_files/mermaid/dist/mermaid.css" rel="stylesheet" />
+<script src="{{< blogdown/postref >}}index_files/mermaid/dist/mermaid.slim.min.js"></script>
+<link href="{{< blogdown/postref >}}index_files/DiagrammeR-styles/styles.css" rel="stylesheet" />
+<script src="{{< blogdown/postref >}}index_files/chromatography/chromatography.js"></script>
+<script src="{{< blogdown/postref >}}index_files/DiagrammeR-binding/DiagrammeR.js"></script>
+
+
+<div id="what" class="section level2">
+<h2>What?</h2>
+<p>Check examples here: <a href="https://www.christophenicault.com/post/write_post/" class="uri">https://www.christophenicault.com/post/write_post/</a></p>
+{{% spoiler text="Click to view the spoiler" %}}
+{{< icon name="r-project" pack="fab" >}} R
+{{% /spoiler %}}
+<p>This does not work: <a href="https://learn.r-journalism.com/en/shortcodes/mermaid/" class="uri">https://learn.r-journalism.com/en/shortcodes/mermaid/</a></p>
+<pre class="r"><code>DiagrammeR::mermaid(&quot;
+stateDiagram
+[*] --&gt; Still
+Still --&gt; [*]
+Still --&gt; Moving
+Moving --&gt; Still
+Moving --&gt; Crash
+Crash --&gt; [*]
+&quot;)</code></pre>
+<div class="DiagrammeR html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-1" style="width:672px;height:480px;"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"diagram":"\nstateDiagram\n[*] --> Still\nStill --> [*]\nStill --> Moving\nMoving --> Still\nMoving --> Crash\nCrash --> [*]\n"},"evals":[],"jsHooks":[]}</script>
+</div>

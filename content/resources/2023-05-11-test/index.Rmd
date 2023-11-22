@@ -1,0 +1,37 @@
+---
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+date: "2021-04-06"
+weight: 10  # Order that this section will appear.
+title: "Test diagrammeR in Rmarkdown"
+diagram: true
+---
+
+## What?
+
+Check examples here: https://www.christophenicault.com/post/write_post/
+
+```{r include=TRUE, echo=FALSE, results='markup'}
+theRcode = htmltools::HTML('{{< icon name="r-project" pack="fab" >}} R')
+blogdown::shortcode("spoiler", text="Click to view the spoiler", 
+                    .content=theRcode)
+```
+
+
+
+
+This does not work: https://learn.r-journalism.com/en/shortcodes/mermaid/
+
+
+```{r include=TRUE, echo=TRUE, results='asis'}
+DiagrammeR::mermaid("
+stateDiagram
+[*] --> Still
+Still --> [*]
+Still --> Moving
+Moving --> Still
+Moving --> Crash
+Crash --> [*]
+")
+```
