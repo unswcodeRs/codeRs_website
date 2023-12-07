@@ -14,47 +14,12 @@ design:
 
 <img src="/images/logo.png" width=350 style = "margin-left: 0px; margin-right: 0px; float:right" >
 
-UNSW codeRs is a vibrant community fueled by students and staff who share a passion for 'R' programming. Our committee organises relaxed meetings perfect for mastering 'R' and connecting with fellow coding enthusiasts. Whether you're a beginner venturing into coding or an experienced programmer aiming to enhance your skills, codeRs is your supportive haven. 
+UNSW coders is a student and staff run community dedicated for 'R' users for anyone who wants to further develop their coding skills. It is our goal to create a safe and open space for members to share and gain new experiences relating to R, coding and statistics. 
 
-During the third academic term of 2023  we will meet **weekly every Thursday** (14 Sep 2023 until 7 Dec 2023) from 10:00 am to 11:00 am. 
-
-All UNSW members are welcome, no prior experience needed, no reservations required, and snacks are on us!  
-
-
-```{r include=FALSE}
-library(knitr)
-library(kableExtra)
-df_results <- data.frame(
-  Date = c("14 September 2023",
-           "21 September 2023", 
-           "28 September 2023", 
-           "5 October 2023", 
-           "12 October 2023", 
-           "19 October 2023", 
-           "26 October 2023", 
-           "2 November 2023", 
-           "9 November 2023", 
-           "16 November 2023", 
-           "23 November 2023"),
-  Event = rep("Drop-in help session",11),
-  Presenter = rep("UNSW codeRs team",11)
-)
-df_results = as.data.frame(df_results)
-df_results[11,"Event"] <- "Last Drop-in help session"
-kable_results_2 = kbl(df_results[,c(1:2)], align = "c",
-              # escape = F,
-              caption = "Forthcoming events") %>%
-    kable_paper("hover") %>%
-    kable_styling(font_size = 24, html_font = "Courier New",full_width=FALSE)
-```
-
-```{r, include=TRUE, echo=FALSE}
-kable_results_2
-```
-
+Life at university is dynamic. We started in 2021 with a small group of members from different schools and different levels of experience. Most of them have completed their UNSW candidatures and moved on to their next chapters. But we hope UNSW coders will continue to grow and recruit new members to organise more activities in 2024 and beyond.
 
 {{% callout note %}}
-You can find us in room <strong> [Kens E26 Lv4 4063](https://studentvip.com.au/unsw/kensington/maps/134104) in the 4th level of the Biological Science Building ([Building ID K-E26](https://studentvip.com.au/unsw/kensington/maps/134104))</strong>. <br/>  :cookie: Snacks will be provided! :grinning:
+All UNSW members are welcome, no prior experience needed, come and join us!  :grinning:
 {{% /callout %}}
 
 
@@ -62,16 +27,9 @@ You can find us in room <strong> [Kens E26 Lv4 4063](https://studentvip.com.au/u
 
 Check out the [workshop page](workshops/) to find out details about resources from past workshops
 
-## Drop-in Help Sessions 
-
-- It doesn't matter if you are a complete beginner to R or if you have years of experience, everyone is welcome and encouraged to stop by our drop-in sessions
-- This is the perfect space to bring all of your coding questions or even just to hang out and code alongside other R users, so feel free to stop by even if you don't have any specific questions 
-
-
 </div>
 
 
 *This website was built by Tehilla Ostrovsky and Jenny Sloane completely in **R** using the `blogdown` package* :smile:
 
-
-*Updates by José R. Ferrer Paris* :grinning:
+*Updates by José R. Ferrer Paris* :thumbsup:
