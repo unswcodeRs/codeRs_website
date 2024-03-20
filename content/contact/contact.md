@@ -13,6 +13,10 @@ weight: 10
 widget: contact
 ---
 
+{{% callout note %}}
+All UNSW members are welcome, no prior experience needed, come and join us!  :grinning:
+{{% /callout %}}
+
 <details>
   <summary>If you have an UNSW zID and email, you can use this link :link: to join our mailing lis... </summary>
   

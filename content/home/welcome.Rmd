@@ -16,16 +16,65 @@ design:
 
 UNSW coders is a student and staff run community dedicated for 'R' users for anyone who wants to further develop their coding skills. It is our goal to create a safe and open space for members to share and gain new experiences relating to R, coding and statistics. 
 
-Life at university is dynamic. We started in 2021 with a small group of members from different schools and different levels of experience. Most of them have completed their UNSW candidatures and moved on to their next chapters. But we hope UNSW coders will continue to grow and recruit new members to organise more activities in 2024 and beyond.
+## What have we done so far?
+
+We started in 2021 with a small group of members from different schools and different levels of experience forming the steering committee.
+
+We have had more than 130 people registered in our mailing list between 2021 and the 2023.
+
+We have hosted multiple one-hour workshops with contributions from staff and PhD students sharing their favourite R packages and tools.
+
+We held drop-in help sessions in all terms of 2022 and 2023.
+
+We created this website with lots of resources from our workshops, including some recordings and links to presentations and other workshop materials. 
+
+We also have an amazing logo and many :cool: posters 😎.
+
+We have a [GitHub organisation](https://github.com/UNSW-codeRs) with 16 public repositories of our workshops for anyone to clone and fork as they please.
+
+We were invited to a Fireside Chat at the [ARDC Digital Research Skills Summit 2023](https://ardc.edu.au/event/ardc-digital-research-skills-summit-2023/).
+
+In December 2023 we were invited to present one of our workshops virtually for the [Macquarie University R Users Group](https://github.com/mqRusers).
+
+
+## Workshops
+
+During our first years, we had the challenge of lockdowns and other restrictions and we held many online sessions, with large virtual attendance. These were also very convenient for those people connecting from outside Sydney.
+
+Check out the [workshop page](workshops/) to find out details about resources from past workshops. If you want to go straight to the code, visit our GitHub organisation page:
+
+## Who are our members ?
+
+The core organising committee is small but we have a large group of interested and interesting people attending our events. 
+
+Over the course of the years we have attracted a lot of interested students and staff from UNSW. We had an open form for users to register to our mailing list and between 2021 and 2023 more than 130 people from the university joined. Roughly 63% of people came from the Science Faculty (specially the schools of [BEES](https://www.unsw.edu.au/science/our-schools/bees) with 44%, [BABS](https://www.unsw.edu.au/science/our-schools/babs) 4% and [Psychology](https://www.unsw.edu.au/science/our-schools/psychology) 11%). The second largest group came from [Medicine](https://www.unsw.edu.au/medicine-health) and the [Kirby Institute](https://www.kirby.unsw.edu.au/) (18%), and the rest came from [Business](https://www.unsw.edu.au/business), Engineering, ADA, Stats Central, [ADFA](https://www.unsw.edu.au/canberra/about-us/our-campuses/unsw-adfa) and the Library. 
+
+Almost half of these were PhD students (47%), but we also had undergraduate (13%) and Master's students (7%). The rest of users in the mailing lists were Post Docs (19%) and other academic staff (7%). 
+
+At least 54% of the respondents were *Beginners* or *Complete beginners*, 40% considered themselves *Intermediate* R users, and only 6% considered themselves *Advanced* R users.
+
+Interestingly, some users from outside UNSW also joined our list, including students and staff from [Macquarie University](https://www.mq.edu.au/), the [University of Sydney](https://www.sydney.edu.au/about-us.html), and the [Australian National University](https://www.anu.edu.au/), and even some people outside academia, or from institutions overseas.
+
+## UNSW Coders out there
+
+View some [some photos](https://ardc.edu.au/article/digital-research-skills-trainers-convene-at-the-2023-ardc-skills-summit/) and the [video of our fireside chat ](https://youtu.be/BdFwPzS9cdA?feature=shared&t=5444) at the ARDC Digital Research Skills Summit 2023.
+
+
+
+## What do we do now?
+
+Life at university is dynamic. Most of the original group of members have completed their UNSW candidatures and moved on to their next chapters. But we hope UNSW coders will continue to grow and recruit new members to organise more activities in 2024 and beyond.
+
+## Do you want to join?
+
+Everybody can join, you can follow [this link](contact) to join the group and connect with other members. 
+
+In the past we have had student and faculty members from many different schools and faculties joining our activities. Everybody can help and ask for help, no matter if you are beginner, intermediate or expert!
 
 {{% callout note %}}
 All UNSW members are welcome, no prior experience needed, come and join us!  :grinning:
 {{% /callout %}}
 
-
-## Workshops
-
-Check out the [workshop page](workshops/) to find out details about resources from past workshops
 
 </div>
 
