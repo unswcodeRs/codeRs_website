@@ -1,6 +1,7 @@
 ---
 date: "2021-04-06"
 title: R in Katana
+author: joseferrer
 ---
 
 ***You are looking to use R in Katana @ Restech UNSW?***

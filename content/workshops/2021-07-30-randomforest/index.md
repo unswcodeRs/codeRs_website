@@ -1,6 +1,7 @@
 ---
 date: "2021-07-30"
 title: "Introduction to Classification Trees and Random Forests in R"
+author: joseferrer
 links:
 - icon: video 
   # icon_pack: fas
