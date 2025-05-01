@@ -2,8 +2,8 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Welcome to the UNSW CodeRs website!"
-subtitle: ""
+subtitle: "Organised by UNSW codeRs, R Appreciation Society and other R enthusiasts"
+title: "aRe you using R? You aRe not alone!"
 hero_media: 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -12,24 +12,26 @@ design:
 
 <div style = "margin-left: 80px; margin-right: 80px;">
 
-<img src="/images/logo.png" width=350 style = "margin-left: 0px; margin-right: 0px; float:right" >
-
-UNSW coders is a student and staff run community dedicated for 'R' users for anyone who wants to further develop their coding skills. It is our goal to create a safe and open space for members to share and gain new experiences relating to R, coding and statistics. 
-
-Life at university is dynamic. We started in 2021 with a small group of members from different schools and different levels of experience. Most of them have completed their UNSW candidatures and moved on to their next chapters. But we hope UNSW coders will continue to grow and recruit new members to organise more activities in 2024 and beyond.
-
-{{% callout note %}}
-All UNSW members are welcome, no prior experience needed, come and join us!  :grinning:
-{{% /callout %}}
+<img src="/images/R-community-mixer.png" width=550 style = "margin-left: 0px; margin-right: 0px; float:right" >
 
 
-## Workshops
 
-Check out the [workshop page](workshops/) to find out details about resources from past workshops
+Whether you're crunching data daily or just curious about coding, come connect with fellow R users and enthusiasts from across UNSW at the R Community Mixer on 29 May 2025.
+
+Hosted by the UNSW codeRs Club and the School of Population Health R Appreciation Society, this is your chance to:
+
+- Meet and mingle with other R users from all corners of the university
+- Discover the R-related groups, initiatives, and support networks already active on campus
+- Share your ideas in an interactive session to help shape the future of a university-wide R user community
+
+No R experience? No problem. All are welcome — from complete beginners to seasoned data wranglers.
+
+Join us for great conversations, new connections, and a collective vision for the R community at UNSW.
+
+[Register for the event here](https://www.eventbrite.com.au/e/r-community-mixer-tickets-1336106623879) or use the QR code!
+
+<img src="/images/hexstickers-mixer.png" width='250px' style = "margin-left: 0px; margin-right: 0px; float:right" > 
+
 
 </div>
 
-
-*This website was built by Tehilla Ostrovsky and Jenny Sloane completely in **R** using the `blogdown` package* :smile:
-
-*Updates by José R. Ferrer Paris* :thumbsup:
